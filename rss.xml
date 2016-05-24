@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Comunque]]></title>
         <description><![CDATA[Comunque]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/comunque/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 06:09:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 22:36:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/comunque/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Luxury Scarves by Comunque... Scarves for women]]></title>
+            <description><![CDATA[<article><h1>Luxury Scarves by Comunque... Scarves for women</h1><p>Luxury Scarves by Comunque...Our scarves help you express your style, complete your look. At the same time, protect you, keep you warm when needed.</p><img src="http://www.comunque.eu/wp-content/uploads/2015/04/Voorkant.png"></article>]]></description>
+            <link>http://www.comunque.eu/scarves/</link>
+            <guid isPermaLink="false">0e6e9641-0e22-4dde-a174-345751e5ecdd</guid>
+            <pubDate>Tue, 24 May 2016 22:34:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comunque... Luxe shawls en riemen]]></title>
             <description><![CDATA[<article><h1>Comunque... Luxe shawls en riemen</h1><p>Comunque... Luxe shawls en riemen, ontworpen en gemaakt met waardering voor stijlvolle accessoires en de vrouwen die ze dragen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48bd67fff102cee6f4314ebd91453e92c138eda6.png"></article>]]></description>
